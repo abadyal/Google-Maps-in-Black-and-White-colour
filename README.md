@@ -5,8 +5,7 @@
 I search on the web about how to get black and white google maps iframe it is very hard to find something usefull the fact is its very easy to male google maps black and white thats why i decided to share it. 
 
 * I have a working jsfiddle demo. 
-<script async src="//jsfiddle.net/abadyal/dwtqnL79/3/embed/"></script>
-<iframe width="100%" height="300" src="//jsfiddle.net/abadyal/dwtqnL79/3/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+* https://jsfiddle.net/abadyal/mjqLkp1u/
 
 You can use this as this code for your oen projects just make sure that all the files are linked properly.
 
