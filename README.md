@@ -19,7 +19,7 @@ Troubleshoot in case of an error
 
 1. (jquery.js) is linked in (index.html).
 2. (bootstrap 4 css and js) are also linked in (index.html).
-3. (/requirements/map.css) this file css file is for full screen and responsive properties.  
+3. (/requirements/map.css) this file css file is for map custom properties.  
 
 
 ENJOY!!!
